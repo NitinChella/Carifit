@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784080235876",
+    "firebase_url": "https://carifit-c9dbb.firebaseio.com",
+    "project_id": "carifit-c9dbb",
+    "storage_bucket": "carifit-c9dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784080235876:android:2a2907040aeab21d",
+        "android_client_info": {
+          "package_name": "com.example.android.carifit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784080235876-ofrlhp7je460vvc6bkef1p0sna7mr1p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.carifit",
+            "certificate_hash": "94c1a3b7b4ff3ac978e7dd6081a5dd2af90285cd"
+          }
+        },
+        {
+          "client_id": "784080235876-p7q6o6uovbtr9kj5ucpa4gnb2v583ird.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QSEQWZ4Lsl-wrYm0g2SzqQKNjgZ3kVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784080235876-p7q6o6uovbtr9kj5ucpa4gnb2v583ird.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
